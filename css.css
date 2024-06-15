@@ -1,0 +1,105 @@
+#item1{
+    font-family:"Roboto";
+    color:white;
+}
+.logo-img{
+height:40px;
+width:30px;
+}
+.jenny{
+    color:blue;
+    font-family:"Roboto";
+}
+.contact{
+   border-radius: 10px;
+   color:white;
+   background-color: blue;
+   border-width: 0px;
+   height:35px;
+   width:140px;
+   text-align:center;
+   margin-bottom:100px;
+   
+}
+.banner-section{
+    background-color: black;
+}
+.heading1{
+    color:white;
+    font-family:"Roboto";
+    margin-left: 10px;
+    
+}
+.para{
+    color:darkslategray;
+}
+.read{
+    color:chartreuse;
+}
+.section1{
+    background-color:burlywood;
+}
+
+
+.project-section{
+    background-color: #323f4b;
+}
+.imag1{
+    width:100%;
+    height:170px;
+}
+.image2{
+    width:100%;
+    height:230px;
+}
+.facts{
+    background-color: #9aa5b1;
+}
+.skill1{
+    background-color: #323f4b;
+    border-radius: 7px;
+    text-align: center;
+}
+.projectheading{
+    color:white;
+    padding-left: 5px;
+    padding-top: 4px;
+}
+.services1{
+    background-color: #323f4b;
+    color:white;
+    border-radius: 10px;
+}.imageee{
+    width:65px;
+    height:70px;
+    padding-left: 15px;
+}
+.services{
+    background-color: #9aa5b1;
+}
+.work-done{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    height:70vh;
+    background-size: cover;
+}
+.workdone1{
+color:white;
+}
+.line{
+    background-color: white;
+    width:60px;
+}
+.image4{
+
+    width:80px;
+    height:70px;
+    border-radius: 30px;
+}
+.image6{
+    width:50px;
+    height:50px;
+    border-radius:35px;
+}
+.heading2{
+    color:chartreuse;
+}
